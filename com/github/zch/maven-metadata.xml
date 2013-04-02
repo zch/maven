@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>maven-pdfsplit-plugin Maven Plugin</name>
+      <prefix>pdfsplit</prefix>
+      <artifactId>pdfsplit-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
